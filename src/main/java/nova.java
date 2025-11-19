@@ -59,6 +59,7 @@ public class nova {
     }
 
     private static void modulojuego() {
+        System.out.println("olk");
     }
 
     private static void modulocalculadora() {
