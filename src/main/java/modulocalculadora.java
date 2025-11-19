@@ -1,2 +1,6 @@
-public class modulocalculadora {
+public class modulocalculadora
+{
+    public static void main(String[] args) {
+
+    }
 }
